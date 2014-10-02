@@ -1,4 +1,7 @@
 # main-bower-files is nice
+
+Qiitaに投稿した記事[bowerをうまく使う](http://qiita.com/endaaman/items/65f4df9b43e29d7544d1)のサンプルです。
+
 ## 準備
 ```
 npm install
