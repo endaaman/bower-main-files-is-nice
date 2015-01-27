@@ -1,6 +1,6 @@
 # main-bower-files is nice
 
-Qiitaに投稿した記事[bowerをうまく使う](http://qiita.com/endaaman/items/65f4df9b43e29d7544d1)のサンプルです。
+Qiitaに投稿した記事[bowerと仲良くなる](http://qiita.com/endaaman/items/65f4df9b43e29d7544d1)のサンプルです。
 
 ## 準備
 ```
@@ -31,10 +31,8 @@ npm test
 
 
 ## 実際に起動する
-静的サーバーはgulpの方に書いてないので頑張って起動してください。
-publicに入って
+静的サーバーはgulpの方に書いてないのでpublicに入って
 ```
 python -m SimpleHTTPServer
 ```
-とかが楽かな？
-
+とかで自分で起動してください。
